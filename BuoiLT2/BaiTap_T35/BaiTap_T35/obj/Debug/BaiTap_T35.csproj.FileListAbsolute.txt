@@ -1,0 +1,12 @@
+D:\hk2_n1\desktop\BaiTap_T35\BaiTap_T35\bin\Debug\BaiTap_T35.exe.config
+D:\hk2_n1\desktop\BaiTap_T35\BaiTap_T35\bin\Debug\BaiTap_T35.exe
+D:\hk2_n1\desktop\BaiTap_T35\BaiTap_T35\bin\Debug\BaiTap_T35.pdb
+D:\hk2_n1\desktop\BaiTap_T35\BaiTap_T35\obj\Debug\BaiTap_T35.csproj.AssemblyReference.cache
+D:\hk2_n1\desktop\BaiTap_T35\BaiTap_T35\obj\Debug\BaiTap_T35.csproj.SuggestedBindingRedirects.cache
+D:\hk2_n1\desktop\BaiTap_T35\BaiTap_T35\obj\Debug\BaiTap_T35.Form1.resources
+D:\hk2_n1\desktop\BaiTap_T35\BaiTap_T35\obj\Debug\BaiTap_T35.Properties.Resources.resources
+D:\hk2_n1\desktop\BaiTap_T35\BaiTap_T35\obj\Debug\BaiTap_T35.TabControl.resources
+D:\hk2_n1\desktop\BaiTap_T35\BaiTap_T35\obj\Debug\BaiTap_T35.csproj.GenerateResource.cache
+D:\hk2_n1\desktop\BaiTap_T35\BaiTap_T35\obj\Debug\BaiTap_T35.csproj.CoreCompileInputs.cache
+D:\hk2_n1\desktop\BaiTap_T35\BaiTap_T35\obj\Debug\BaiTap_T35.exe
+D:\hk2_n1\desktop\BaiTap_T35\BaiTap_T35\obj\Debug\BaiTap_T35.pdb
