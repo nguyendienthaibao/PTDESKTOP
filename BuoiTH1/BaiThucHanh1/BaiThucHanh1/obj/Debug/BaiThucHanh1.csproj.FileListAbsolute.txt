@@ -1,0 +1,10 @@
+C:\Users\PC409\Downloads\BaiThucHanh1\BaiThucHanh1\bin\Debug\BaiThucHanh1.exe.config
+C:\Users\PC409\Downloads\BaiThucHanh1\BaiThucHanh1\bin\Debug\BaiThucHanh1.exe
+C:\Users\PC409\Downloads\BaiThucHanh1\BaiThucHanh1\bin\Debug\BaiThucHanh1.pdb
+C:\Users\PC409\Downloads\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.csprojAssemblyReference.cache
+C:\Users\PC409\Downloads\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.MainForm.resources
+C:\Users\PC409\Downloads\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.Properties.Resources.resources
+C:\Users\PC409\Downloads\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.csproj.GenerateResource.cache
+C:\Users\PC409\Downloads\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.csproj.CoreCompileInputs.cache
+C:\Users\PC409\Downloads\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.exe
+C:\Users\PC409\Downloads\BaiThucHanh1\BaiThucHanh1\obj\Debug\BaiThucHanh1.pdb
