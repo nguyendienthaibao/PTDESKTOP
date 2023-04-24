@@ -1,0 +1,28 @@
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.csproj.AssemblyReference.cache
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.frmChinh.resources
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.Properties.Resources.resources
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.csproj.GenerateResource.cache
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.csproj.CoreCompileInputs.cache
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm4\bin\Debug\BaiTapWindowsForm4.exe.config
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm4\bin\Debug\BaiTapWindowsForm4.exe
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm4\bin\Debug\BaiTapWindowsForm4.pdb
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.frmBai1.resources
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.exe
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.pdb
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.frmBai2.resources
+C:\Users\Rii\Desktop\PTUD_Desktop\PTUD-Desktop-CTK45A-DLU\2. Thực hành\Lab 1\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.frmBai3.resources
+C:\Users\Admin\Downloads\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm4\bin\Debug\BaiTapWindowsForm4.exe.config
+C:\Users\Admin\Downloads\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm4\bin\Debug\BaiTapWindowsForm4.exe
+C:\Users\Admin\Downloads\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm4\bin\Debug\BaiTapWindowsForm4.pdb
+C:\Users\Admin\Downloads\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.frmBai1.resources
+C:\Users\Admin\Downloads\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.frmBai2.resources
+C:\Users\Admin\Downloads\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.frmBai3.resources
+C:\Users\Admin\Downloads\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.Properties.Resources.resources
+C:\Users\Admin\Downloads\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.exe
+C:\Users\Admin\Downloads\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.pdb
+C:\Users\Admin\Downloads\BaiTapWindowsForm\BaiTapWindowsForm\BaiTapWindowsForm4\obj\Debug\BaiTapWindowsForm4.MainForm.resources
