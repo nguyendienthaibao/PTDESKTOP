@@ -1,0 +1,28 @@
+D:\Data\homework\Desktop app\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe.config
+D:\Data\homework\Desktop app\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe
+D:\Data\homework\Desktop app\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.pdb
+D:\Data\homework\Desktop app\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.AssemblyReference.cache
+D:\Data\homework\Desktop app\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.SuggestedBindingRedirects.cache
+D:\Data\homework\Desktop app\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai1.resources
+D:\Data\homework\Desktop app\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.MainForm.resources
+D:\Data\homework\Desktop app\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.Properties.Resources.resources
+D:\Data\homework\Desktop app\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.GenerateResource.cache
+D:\Data\homework\Desktop app\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.CoreCompileInputs.cache
+D:\Data\homework\Desktop app\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.exe
+D:\Data\homework\Desktop app\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.pdb
+D:\Data\homework\Desktop app\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai2.resources
+D:\Data\homework\Desktop app\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai3.resources
+D:\PTDESKTOP\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe.config
+D:\PTDESKTOP\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe
+D:\PTDESKTOP\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.pdb
+D:\PTDESKTOP\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.AssemblyReference.cache
+D:\PTDESKTOP\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.SuggestedBindingRedirects.cache
+D:\PTDESKTOP\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai1.resources
+D:\PTDESKTOP\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai2.resources
+D:\PTDESKTOP\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai3.resources
+D:\PTDESKTOP\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.MainForm.resources
+D:\PTDESKTOP\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.Properties.Resources.resources
+D:\PTDESKTOP\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.GenerateResource.cache
+D:\PTDESKTOP\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.CoreCompileInputs.cache
+D:\PTDESKTOP\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.exe
+D:\PTDESKTOP\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.pdb
