@@ -1,0 +1,24 @@
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe.config
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.pdb
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.AssemblyReference.cache
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.SuggestedBindingRedirects.cache
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Form1.resources
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Properties.Resources.resources
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.GenerateResource.cache
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.CoreCompileInputs.cache
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.exe
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.pdb
+D:\Môn học\Năm 2 kỳ 2\Ứng dụng phần mềm desktop\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.FoodInfoForm.resources
+D:\PTDESKTOP\Lab7_Advanced_Command\Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe.config
+D:\PTDESKTOP\Lab7_Advanced_Command\Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe
+D:\PTDESKTOP\Lab7_Advanced_Command\Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.pdb
+D:\PTDESKTOP\Lab7_Advanced_Command\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.AssemblyReference.cache
+D:\PTDESKTOP\Lab7_Advanced_Command\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.SuggestedBindingRedirects.cache
+D:\PTDESKTOP\Lab7_Advanced_Command\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.foodInfoForm.resources
+D:\PTDESKTOP\Lab7_Advanced_Command\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Form1.resources
+D:\PTDESKTOP\Lab7_Advanced_Command\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Properties.Resources.resources
+D:\PTDESKTOP\Lab7_Advanced_Command\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.GenerateResource.cache
+D:\PTDESKTOP\Lab7_Advanced_Command\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.CoreCompileInputs.cache
+D:\PTDESKTOP\Lab7_Advanced_Command\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.exe
+D:\PTDESKTOP\Lab7_Advanced_Command\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.pdb
