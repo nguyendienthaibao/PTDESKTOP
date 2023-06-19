@@ -1,0 +1,303 @@
+*Bước 1
+172.16.144.0/20
+9 mạng => 1001
+mượn 4 bit
+172.16. 0000/ 0000. 0000 0000
+        1001
+100: 172.16.144.0/25
+80: 172.16.144.128/25
+50: 172.16.145.0/26
+25: 172.16.145.64/27
+6: 172.16.145.96/29
+2: 172.16.145.104/30
+2: 172.16.145.108/30
+2: 172.16.145.112/30
+2: 172.16.145.116/30
+*Bước 2: gắn ip
+nhiều bước lắm @@
+
+/20 255.255.240.0
+/21 255.255.248.0
+/22 255.255.252.0
+/23 255.255.254.0
+/24 255.255.255.0
+/25 255.255.255.128
+/26 255.255.255.192
+/27 255.255.255.224
+/28 255.255.255.240
+/29 255.255.255.248
+/30 255.255.255.252
+/31 255.255.255.254
+/32 255.255.255.255
+
+Router>en
+Router#conf
+Configuring from terminal, memory, or network [terminal]? 
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router(config)#hostname R1
+R1(config)#enable secret mmt
+R1(config)#ip domain name mmt.com
+R1(config)#crypto key generate rsa
+R1(config)#username mmt password mmt
+
+Câu Hỏi 1
+Lệnh ping 8.8.8.8 -t, tham số -t nghĩa là gì? 
+
+Tham số -t trong lệnh ping 8.8.8.8 -t có nghĩa là liên tục gửi gói tin ICMP đến địa chỉ IP 8.8.8.8 cho đến khi người dùng ngừng lệnh bằng cách nhấn Ctrl + C.
+
+Câu Hỏi 2
+Nêu thứ tự bấm dây của 568A và 568B?
+
+Thứ tự bấm dây của chuẩn 568A là: màu trắng xám, xám, màu trắng cam, xanh lá, màu trắng xanh lá, cam, màu trắng nâu, nâu.
+
+Thứ tự chuẩn cáp 568B là: Sọc Cam,Cam, Sọc Xanh Lá, Xanh Dương, Sọc Xanh Dương, Xanh Lá, Sọc Nâu, Nâu
+
+Câu Hỏi 3
+Theo suy nghĩ của bạn, có phải switch sẽ lưu địa chỉ MAC mãi mãi trong bộ nhớ? Hãy cho biết bộ nhớ Switch lưu các địa chỉ MAC tên gì?
+
+Bảng địa chỉ MAC của switch được lưu trữ trong bộ nhớ tạm thời và sẽ bị xóa sau một khoảng thời gian nhất định. Tên bảng địa chỉ MAC của switch là “bảng địa chỉ MAC” hoặc “bảng MAC”.
+
+Câu Hỏi 4
+Ba giao thức của tầng ứng dụng (application) là thành phần của bộ giao thức TCP/IP ?
+Các câu trả lời đúng là: DHCP, DNS, FTP
+
+Câu Hỏi 5
+Bạn V truy cập http://nh.iu để xem thông tin. Hỏi dữ liệu từ máy bạn V thực hiện quá trình gì khi truyền xuống lớp Physical để tới được server nh.iu? Và Server thực hiện quá trình gì để đọc được dữ liệu của bạn V ?
+Các câu trả lời đúng là: Đóng gói, Tách gói
+
+Câu Hỏi 6
+Bảng nào của Switch chứa thông tin địa chỉ MAC và port tương ứng ?
+Câu trả lời đúng là: Mac-Address-Table
+
+Câu Hỏi 7
+Cho địa chỉ 0.230.190.192/8 hỏi địa chỉ mạng của địa chỉ này là bao nhiêu ?
+Câu trả lời đúng là: Không có
+
+Câu Hỏi 8
+Cho địa chỉ IP 192.10.10.0, mạng này cần tạo ra 14 mạng con (subnet) và số lượng host sử dụng là 14. Đáp án nào sau đây là đúng?
+Câu trả lời đúng là: Địa chỉ trên thuộc lớp C và phải mượn 4 bít để chia cho 14 mạng con và 14 host, có subnet mask là 255.255.255.240
+
+Câu Hỏi 9
+Cho địa chỉ IP 192.10.10.0/24, vùng địa chỉ của mạng thứ 4 của mạng /28 tạo ra từ mạng 192.10.10.0/24 là bao nhiêu ?
+Câu trả lời đúng là: 192.10.10.48 đến 192.10.10.63
+
+Câu Hỏi 10
+Cho địa chỉ IP 192.168.252.0/22 có thể tao ra bao nhiêu subnet /26 ?
+Câu trả lời đúng là: 16
+
+Câu Hỏi 11
+Cho địa chỉ IP 195.223.50.0, subnet mask nào cho địa chỉ IP này có thể tạo ra 2 mạng con?
+Câu trả lời đúng là: 255.255.255.128
+
+Câu Hỏi 12
+Cho địa chỉ IP 223.69.230.250 hãy cho biết địa chỉ này là địa chỉ thứ mấy của subnet 223.69.0.0/16?
+Câu trả lời đúng là: Là địa chỉ IP thứ 59131
+
+Câu Hỏi 13
+Cho địa chỉ IP sau 128.107.0.0/16. Subnet Mask nào phù hợp cho mô hình có số lượng IP bằng nhau trong mô hình sau?
+Câu trả lời đúng là: 255.255.255.128
+
+Câu Hỏi 14
+Cho địa chỉ IPv6 2019::/126 hãy cho biết địa chỉ cuối cùng gán được cho  máy tính là bao nhiêu?
+Câu trả lời đúng là: 2019::3
+
+Câu Hỏi 15
+Cho địa chỉ IPv6 2019:abcd::/48 có thể tạo ra được bao nhiêu subnet /55 và subnet cuối cùng của /55 là bao nhiêu?
+Câu trả lời đúng là: 128 mạng con 2019:abcd:0:0:FE00
+
+Câu Hỏi 16
+Dịch vụ DHCP dùng để làm gì ?
+Câu trả lời đúng là: Cấp địa chỉ IP động cho máy tính
+
+Câu Hỏi 17
+Frame sau là của IPv4 hay IPv6, TCP hay UDP ?
+Câu trả lời đúng là: Frame này là IPv6 vì có code là 86dd và chứ Protocol 11 tức là UDP
+
+Câu Hỏi 18
+Giả sử mail server có địa chỉ ctk45.com, trước khi kết nối tới mail server phải thực hiện thiết lập kết nối bằng lệnh ?
+Câu trả lời đúng là: helo ctk45.com
+
+Câu Hỏi 19
+Hãy cho biết lớp Internet của mô hình TCP/IP có những giao thức nào ?
+Câu trả lời đúng là: DNS, FTP, TFTP
+
+Câu Hỏi 20
+Hãy cho biết lớp Internet của mô hình TCP/IP có những giao thức nào ?
+Câu trả lời đúng là: IPv4, IPv6, ICMP
+
+Câu Hỏi 21
+Khi muốn điều khiển router/switch từ xa dùng giao thức các giao thức nào ?
+Các câu trả lời đúng là: SSH, Telnet
+
+Câu Hỏi 22
+Khi telnet tới cổng 110 để nhận email thì lệnh LIST có tác dụng gì ?
+Câu trả lời đúng là: Liệt kê danh sách email
+
+Câu Hỏi 23
+Lệnh enable secret dùng để làm gì?
+Câu trả lời đúng là: Dùng để đặt mật khẩu bảo vệ privilege mode
+
+Câu Hỏi 24
+Lệnh nào hiển thị nội dung trong bộ nhớ RAM của Router|Switch ?
+Câu trả lời đúng là: Show running-config
+
+Câu Hỏi 25
+Lệnh tải file lên FTP server là gì ?
+Câu trả lời đúng là: put
+
+Câu Hỏi 26
+line vty 0 4, số 0 4 có nghĩa là gì ?
+Câu trả lời đúng là: Có nghĩa là 5 kết nối đồng thời vào router|switch
+
+Câu Hỏi 27
+Một Web Client gửi yêu cầu đến Web Server. Trong thể hiện của client thì thứ tự nào đúng cho hành động thực hiện yêu cầu đến server của Web Client
+Câu trả lời đúng là: HTTP, TCP, IP, Ethernet
+
+Câu Hỏi 28
+Bạn L gửi yêu cầu đến server TA trong dịch vụ WEB. Trong thể hiện của quá trình gửi dữ liệu từ máy bạn L thì thứ tự nào đúng cho hành động thực hiện yêu cầu đến server TA từ máy bạn L.
+Câu trả lời đúng là: HTTP, TCP, IP, Ethernet
+
+Câu Hỏi 29
+Nếu thiết bị mạng có subnet mask là /28, hỏi có bao nhiêu địa chỉ IP dùng được cho mạng này ?
+Câu trả lời đúng là: 14
+
+Câu Hỏi 30Đú
+Những đáp án đúng về TCP và UDP?
+b.
+TCP truyền dữ liệu tin cậy vì có kiểm soát luồng, gửi lại gói tin, UDP không tin cậy vì gửi không hồi đáp.
+
+Đúng
+
+c.
+TCP dùng để truyền dữ liệu của các giao thức như FTP, HTTP, DNS ; UDP truyền dữ liệu cho các ứng dụng TFTP , VOIP.
+
+Đúng
+
+d.
+TCP truyền dữ liệu bằng cách thiết lập kết nối bằng Three-way hanshake (3 cái bắt tay), UDP không cần thiết lập kết nối trước khi truyền
+
+Đúng
+
+Câu Hỏi 31
+Startup-Config thông thường sẽ lưu trữ ở đâu ?
+Các câu trả lời đúng là: TFTP, NVRAM
+
+Câu Hỏi 32
+Subnet Mask nào mà có 10 bit phần host ?
+Câu trả lời đúng là: 255.255.252.0
+
+Câu Hỏi 33
+Tại sao máy tính hoặc thiết bị mạng cần phải có địa chỉ IP default gateway ?
+Câu trả lời đúng là: Để kết nối ra mạng khác
+
+Câu Hỏi 34
+Tại sao máy tính và router phải dùng cáp chéo ?
+Câu trả lời đúng là: Bởi vì máy tính đóng vai trò như một bộ định tuyến, có thể xem thông tin như router thông qua lệnh route print
+
+Câu Hỏi 35
+Thông tin dưới đây hiển thị nội dung gì?
+Câu trả lời đúng là: Thông tin của lệnh ipconfig/displaydns
+
+Câu Hỏi 36
+Thứ tự chuẩn cáp 568B
+Câu trả lời đúng là: Sọc Cam,Cam, Sọc Xanh Lá, Xanh Dương, Sọc Xanh Dương, Xanh Lá, Sọc Nâu, Nâu
+
+Câu Hỏi 37
+Thứ tự mô hình TCP
+Câu trả lời đúng là: Application, Transport, Internet, Network Access
+Câu Hỏi 38
+Trong header của IPv6 các trường trong các ô không có thông tin là gì?
+Câu trả lời đúng là: Version, Next Header, Hop Limit
+ 
+Câu Hỏi 39
+Trong hình dưới, người dùng đang làm hành động gì ?
+Câu trả lời đúng là: Người dùng thực hiện kết nối đến server 10.0.241.44 cổng 25 để gửi mail
+
+Câu Hỏi 40
+Trong hình sau, hãy cho biết có bao nhiêu broadcast domain ?
+Câu trả lời đúng là: 8
+
+Câu Hỏi 41
+Trường nào trong gói tin IP khi di chuyển qua các router sẽ trừ đi 1 đơn vị ?
+Câu trả lời đúng là: TTL
+
+Câu Hỏi 42
+Với subnet mask 255.255.0.0 thì subnet mask nào sau đây có khả năng tạo ra số mạng chia đủ cho 1000 mạng con ?
+Câu trả lời đúng là: 255.255.255.192
+
+Câu Hỏi 43
+Để xem bộ nhớ cache chứa địa chỉ mac và ip của máy tính chúng ta dùng lệnh nào ?
+Câu trả lời đúng là: arp -a
+
+Câu Hỏi 44
+Địa chỉ IP 177.100.18.4 là địa chỉ IP thuộc lớp nào ?
+Câu trả lời đúng là: Lớp B
+
+Câu Hỏi 45
+Địa chỉ IP cơ bản được chia làm mấy phần
+Câu trả lời đúng là: 2 phần
+
+Câu Hỏi 46
+Địa chỉ IP default gateway của máy tính trong thực thế nó là địa chỉ gì?
+Câu trả lời đúng là: Địa chỉ IP của thiết bị Modem Router do nhà cung cấp dịch vụ cấp cho.
+
+Câu Hỏi 47
+Tải file packet tracer tại đây https://drive.google.com/file/d/1XlsMalcC5Ag4matXfpS7t708Vgyjl_Gp/view?usp=sharing sau đó hay cho biết, địa chỉ MAC của máy tính PC1 là bao nhiêu
+Câu trả lời đúng là: 0090.2b37.b34c
+
+Câu Hỏi 1
+Một cổng của Router có thể gán 2 hoặc nhiều địa chỉ IPv6
+Đáp án chính xác là "Đúng"
+
+Câu Hỏi 2
+Ba khối địa chỉ nào được xác định bởi RFC 1918 để sử dụng mạng riêng? (Chọn ba.)
+Các câu trả lời đúng là: 10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16
+
+Câu Hỏi 3
+Quản trị viên phải gửi tin nhắn cho mọi người trên một mạng của bộ định tuyến (router). Địa chỉ quảng bá (broadcast) cho mạng 172.16.16.0/22 ​​là gì?
+Câu trả lời đúng là: 172.16.19.255
+
+Câu Hỏi 4
+Quản trị viên muốn tạo bốn mạng con từ địa chỉ mạng 192.168.1.0/24. Địa chỉ mạng và mặt nạ mạng con của mạng con thứ hai có thể sử dụng là gì?
+Câu trả lời đúng là: subnetwork 192.168.1.64
+subnet mask 255.255.255.192
+
+Câu Hỏi 5
+Có bao nhiêu địa chỉ host trên mạng 192.168.10.128/26?
+Câu trả lời đúng là: 62
+
+Câu Hỏi 6
+Một quản trị viên trang web đã được thông báo rằng một mạng cụ thể tại trang web phải chứa 126 máy chủ. Mặt nạ mạng con nào sẽ được sử dụng có chứa số bit máy chủ yêu cầu?
+Câu trả lời đúng là: 255.255.255.128
+
+Câu Hỏi 7
+Có bao nhiêu bit phải được mượn từ phần host của một địa chỉ để chứa một bộ định tuyến (router) có năm mạng được kết nối?
+Câu trả lời đúng là: 3
+
+Câu Hỏi 8
+Xem xét các địa chỉ đã được sử dụng và phải duy trì trong phạm vi mạng 10.16.10.0/24, địa chỉ mạng con nào có thể được gán cho mạng chứa 25 máy chủ?
+Câu trả lời đúng là: 10.16.10.64/27
+
+Câu Hỏi 9
+Phạm vi tiền tố địa chỉ nào được dành riêng cho IPv4 multicast?
+Câu trả lời đúng là: 224.0.0.0 - 239.255.255.255
+
+Câu Hỏi 10
+Số lượng địa chỉ IP máy chủ có thể sử dụng được trên mạng có mặt nạ /26 là bao nhiêu?
+Câu trả lời đúng là: 62
+
+Có nhiều giao thức truyền tải dữ liệu khác nhau trên mạng, mỗi giao thức có những đặc điểm riêng. Sau đây là một số giao thức phổ biến và đặc điểm của chúng:
+
+TCP (Transmission Control Protocol): là giao thức truyền tải dữ liệu tin cậy, đảm bảo tính toàn vẹn và độ tin cậy dữ liệu. TCP sử dụng các gói tin được đánh số để đảm bảo các gói tin được gửi và nhận đúng thứ tự. Tuy nhiên, TCP có tốc độ truyền tải chậm hơn UDP và yêu cầu nhiều tài nguyên hơn.
+
+UDP (User Datagram Protocol): là giao thức truyền tải dữ liệu không tin cậy, không đảm bảo tính toàn vẹn và độ tin cậy dữ liệu. UDP được sử dụng trong các ứng dụng cần tốc độ truyền tải nhanh như truyền tải âm thanh và video trực tuyến.
+
+HTTP (Hypertext Transfer Protocol): là giao thức truyền tải dữ liệu giữa máy khách và máy chủ trên mạng Internet. HTTP được sử dụng để truyền tải các tài liệu HTML, CSS, JavaScript và các loại tài liệu đa phương tiện khác.
+
+FTP (File Transfer Protocol): là giao thức truyền tải tập tin giữa máy khách và máy chủ trên mạng Internet. FTP cho phép người dùng truy cập và tải xuống các tập tin từ máy chủ FTP.
+
+SMTP (Simple Mail Transfer Protocol): là giao thức truyền tải thư điện tử giữa các máy chủ thư điện tử trên mạng Internet.
+
+POP3 (Post Office Protocol version 3): là giao thức truyền tải thư điện tử từ máy chủ thư điện tử đến máy tính cá nhân. POP3 được sử dụng để tải xuống thư điện tử từ máy chủ thư điện tử đến máy tính cá nhân của người dùng.
+
+IMAP (Internet Message Access Protocol): là giao thức truyền tải thư điện tử giữa máy tính cá nhân và máy chủ thư điện tử. IMAP cho phép người dùng truy cập và quản lý thư điện tử từ bất kỳ máy tính nào trên mạng Internet.
